@@ -1,0 +1,83 @@
+[
+    
+     {
+        "id": 1,
+        "name":" AIRPHONE ",
+        "price": 1599,
+        "image": "/image/airpohone.jpg"
+    },
+    {
+        "id": 2,
+        "name":" BANARSI-SAREE ",
+        "price": 499,
+        "image": "/image/banarsi.jpg"
+    },
+
+    {
+        "id": 3,
+        "name":" DABER ",
+        "price": 500,
+        "image": "image/daber.jpg"
+    },
+    {
+        "id": 4,
+        "name":" 1QOO Z9 S 5G",
+        "price": 19050,
+        "image": "image/1qoo z9 s 5g.jpg"
+    },
+  
+    {
+        "id": 5,
+        "name":" MIXTURE ",
+        "price": 1150,
+        "image": "image/misture.jpg"
+    },
+    {
+        "id": 6,
+        "name":" SLEEPER",
+        "price": 199,
+        "image": "image/slaeeper.jpg"
+    },
+    
+    {
+        "id": 6,
+        "name":" SMART-WATCH",
+        "price": 1099,
+        "image": "image/smart watch.jpg"
+    },
+
+    {
+        "id": 7,
+        "name":" GALAXY-PHONE",
+        "price": 75999,
+        "image": "image/galxy.jpg"
+    },
+    {
+        "id": 14,
+        "name":" KING RAHMAT CHAIR",
+        "price": 15000,
+        "image": "image/7.png"
+    },
+    
+    {
+        "id": 8,
+        "name":" FLOATING ARM CHAIR",
+        "price": 2090,
+        "image": "image/3.png"
+    },
+  
+    {
+        "id": 9,
+        "name":" PARSONS CHAIR",
+        "price": 1150,
+        "image": "image/2.png"
+    },
+   
+    {
+        "id": 10,
+        "name":" WINDSOR CHAIR",
+        "price": 900,
+        "image": "image/5.png"
+    }
+    
+]
